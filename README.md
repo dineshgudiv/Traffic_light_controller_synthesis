@@ -38,12 +38,15 @@ The Liberty files are present in the library path,
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
-Synthesis RTL Schematic :
+## Synthesis RTL Schematic :
+ ![WhatsApp Image 2024-11-18 at 11 41 05_5f2a4405](https://github.com/user-attachments/assets/1259f8f2-fd75-4c84-b5c7-55c3b205b7b2)
 
-Area report:
+## Area report:
+![WhatsApp Image 2024-11-18 at 11 41 04_2c5fb24e](https://github.com/user-attachments/assets/9bb1eef8-7fbf-4cd5-9fb0-e4c95052015b)
 
-Power Report:
+## Power Report:
+![WhatsApp Image 2024-11-18 at 11 41 05_99088dea](https://github.com/user-attachments/assets/495ede75-2a11-4723-8787-10037fbfa6f3)
 
-Result:
+## Result:
 
 The generic netlist of Traffic Light Controller has been created, and area, power reports have been tabulated and generated using Genus.
